@@ -1,0 +1,7 @@
+/frontend
+.env
+/api/__pycache__
+/api/migrations
+/views/__pycache__
+/api/tests.py
+/FitFlow/__pycache__
